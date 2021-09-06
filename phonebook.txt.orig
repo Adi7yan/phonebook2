@@ -2,7 +2,11 @@
 while :
 do
 clear
+<<<<<<< HEAD
+echo "PHONE-BOOK-APP2"
+=======
 echo "PHONE-BOOK-APP3"
+>>>>>>> new3
 echo "1.Add New Name"
 echo "2.Search By Name"
 echo "3.List of contacts"
